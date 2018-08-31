@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A First Project"
-date:       2018-08-31 21:54:09 +0000
+date:       2018-08-31 17:54:10 -0400
 permalink:  a_first_project
 ---
 
