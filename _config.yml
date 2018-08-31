@@ -1,11 +1,11 @@
 # Site settings
 author: Katrina Pritchard
-title: 
+title: Katrina Learns to Code:
 header-img: img/home-bg.png
 email: pritckat@gmail.com
 copyright_name: Katrina Pritchard
 description: > # this means to ignore newlines until "baseurl:"
-  
+  an exploit
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  pritckat
